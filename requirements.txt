@@ -1,2 +1,6 @@
 numpy
-pandas
+pandas 
+sys
+seaborn
+matplotlib
+scikit-learn 
